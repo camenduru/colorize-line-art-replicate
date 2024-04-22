@@ -3,7 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ### 🕸 Replicate
-https://replicate.com/camenduru/colorize-line-art
+https://replicate.com/camenduru/comfyui-ipadapter-latentupscale
 
 ### 📋 Tutorial
 ComfyUI = TotoroUI (because ComfyUI is banned on Colab 😋) <br />
